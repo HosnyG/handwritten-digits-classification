@@ -9,7 +9,7 @@ show some images :
 <img width="506" alt="Untitled" src="https://user-images.githubusercontent.com/69496372/93003412-2aeed600-f547-11ea-9f4e-d627bd0b534b.png">
 
 
-we got accuracy of  98.12970609667233 %
+we got accuracy of  98.4211804712169 %
 
 
 ----
